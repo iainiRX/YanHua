@@ -1,0 +1,144 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://corestudi0.github.io/newyear/",
+            "path": "index.html",
+            "saved": true,
+            "size": 13850,
+            "children": [
+                {
+                    "url": "https://corestudi0.github.io/newyear/files/boom.png",
+                    "path": "img/boom.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://cdn.jcelyj.com/assets/TP1ayxwab/banner.jpg",
+                    "path": "img/banner.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://corestudi0.github.io/newyear/files/js/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 140968,
+                    "children": []
+                },
+                {
+                    "url": "https://corestudi0.github.io/newyear/files/js/fscreen%401.0.1.js",
+                    "path": "js/fscreen%401.0.1.js",
+                    "saved": true,
+                    "size": 2691,
+                    "children": []
+                },
+                {
+                    "url": "https://corestudi0.github.io/newyear/files/js/Stage%400.1.4.js",
+                    "path": "js/Stage%400.1.4.js",
+                    "saved": true,
+                    "size": 11883,
+                    "children": []
+                },
+                {
+                    "url": "https://corestudi0.github.io/newyear/files/js/MyMath.js",
+                    "path": "js/MyMath.js",
+                    "saved": true,
+                    "size": 2328,
+                    "children": []
+                },
+                {
+                    "url": "https://corestudi0.github.io/newyear/files/js/script.js",
+                    "path": "js/script.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://corestudi0.github.io/newyear/files/css/main.css",
+                    "path": "css/main.css",
+                    "saved": true,
+                    "size": 10125,
+                    "children": []
+                },
+                {
+                    "url": "https://download.kstore.space/download/2719/newyear/files/audio.mp3",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "corestudi0-github-io-wkw79vdh",
+    "info": {
+        "remark": [],
+        "title": "跨年快乐",
+        "domain": "corestudi0.github.io",
+        "origin": "https://corestudi0.github.io",
+        "ip": "185.199.108.153",
+        "main": "index.html",
+        "url": "https://corestudi0.github.io/newyear/",
+        "totalSize": "182 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://corestudi0.github.io/newyear/#1672496998786",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://corestudi0.github.io/newyear/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "connection": "close",
+                "content-length": "4567",
+                "server": "GitHub.com",
+                "content-type": "text/html; charset=utf-8",
+                "permissions-policy": "interest-cohort=()",
+                "x-origin-cache": "HIT",
+                "last-modified": "Sat, 31 Dec 2022 15:12:08 GMT",
+                "access-control-allow-origin": "*",
+                "strict-transport-security": "max-age=31556952",
+                "etag": "W/\"63b05148-35c1\"",
+                "expires": "Sat, 31 Dec 2022 15:23:26 GMT",
+                "cache-control": "max-age=600",
+                "x-proxy-cache": "HIT",
+                "x-github-request-id": "A9D0:6E39:ACF7A9:EE2138:63B051A4",
+                "accept-ranges": "bytes",
+                "date": "Sat, 31 Dec 2022 15:52:50 GMT",
+                "via": "1.1 varnish",
+                "age": "480",
+                "x-served-by": "cache-hnd18741-HND",
+                "x-cache": "HIT",
+                "x-cache-hits": "4",
+                "x-timer": "S1672501971.940698,VS0,VE1",
+                "vary": "Accept-Encoding",
+                "x-fastly-request-id": "ebb1167156703ceea420ec8989475a5d87fc18a7"
+            }
+        },
+        "time": {
+            "start": "2022-12-31T15:52:50.907Z",
+            "end": "2022-12-31T15:52:55.358Z"
+        }
+    },
+    "options": {
+        "url": "https://corestudi0.github.io/newyear/#1672496998786",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
